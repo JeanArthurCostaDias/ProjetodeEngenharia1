@@ -1,4 +1,4 @@
-# Projetos-1
+# CarbonFluxAI: Inteligência Artificial Aplicada na Previsão de Balanço de Carbono em Santarém
 
 - Link do relatório: https://drive.google.com/file/d/17XV5qMtnG6GzjJuEsTghjRlO1HEqxDNm/view?usp=drive_link
 
