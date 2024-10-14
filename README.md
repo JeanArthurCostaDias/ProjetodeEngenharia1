@@ -25,10 +25,10 @@ O objetivo do projeto é comparar diferentes arquiteturas de Redes Neurais Recor
   - Essa média possibilitou comparar os modelos mais acurados e que melhor compreenderam o comportamento do NEE.
 
 
-Otimização do Modelo CarbonFluxAI
-- Ferramenta Utilizada: Optuna
-  - Tentativas Realizadas: 300 para otimizar todos os hiperparâmetros disponíveis.
-  - Número de Épocas: Definido entre 10 e 100, com base em observações anteriores.
+- Otimização do Modelo CarbonFluxAI
+  - Ferramenta Utilizada: Optuna
+    - Tentativas Realizadas: 300 para otimizar todos os hiperparâmetros disponíveis.
+    - Número de Épocas: Definido entre 10 e 100, com base em observações anteriores.
 - Validação do Modelo:
   - O modelo otimizado, CarbonFluxAI, foi comparado com outros modelos.
   - A validação incluiu pixels próximos para garantir tanto a validade temporal quanto espacial.
