@@ -1,6 +1,6 @@
 # CarbonFluxAI
 
-- Link do relatório: https://drive.google.com/file/d/17XV5qMtnG6GzjJuEsTghjRlO1HEqxDNm/view?usp=drive_link
+- Link do relatório: [Arquivo em PDF](https://drive.google.com/file/d/16VqMkAYt_QAF38u9vxkPGAQFpk6R9dBX/view?usp=sharing)
 
 ## Resumo do Relatório
 Este relatório descreve o processo de desenvolvimento e implementação do modelo CarbonFluxAI, projetado para prever a Troca Líquida de Carbono (NEE) em escala semanal na região de Santarém, Pará. Foram comparadas três arquiteturas de Redes Neurais Recorrentes: RNN clássica, LSTM e GRU. A avaliação dos modelos utilizou métricas como MAE, RMSE, coeficiente de correlação de Pearson e o coeficiente de determinação. O melhor modelo foi otimizado através de ajustes de hiperparâmetros e épocas, resultando em melhorias significativas na precisão e estabilidade das previsões.
