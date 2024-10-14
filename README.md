@@ -36,10 +36,10 @@ Validação do Modelo:
 - O CarbonFluxAI apresentou uma melhoria significativa na previsão do NEE em relação às outras arquiteturas de RNN testadas.
 - A solução teve sua eficácia comprovada em termos espaciais (validação em píxels próximos) e temporais (validação com métricas de erro ao longo do tempo) para monitorar e prever as dinâmicas de carbono na região. sendo uma ferramenta promissora para apoiar iniciativas de conservação ambiental.
 - Limitações observadas:
- - Apenas um sítio de estudo foi utilizado para avaliar o desempenho do modelo.
- - A utilização de uma janela de previsão de 7 dias pode não capturar completamente as dinãmicas de longo prazo do ciclo de carbono
- - Eventos climáticos extremos ou variações sazonais podem não ser capturados nas medições diárias
+   - Apenas um sítio de estudo foi utilizado para avaliar o desempenho do modelo.
+   - A utilização de uma janela de previsão de 7 dias pode não capturar completamente as dinãmicas de longo prazo do ciclo de carbono
+   - Eventos climáticos extremos ou variações sazonais podem não ser capturados nas medições diárias
 
 - Trabalhos Futuros
- - Generalizar a abordagem para uma área mais ampla e diversa.
- - Incorporação de Variáveis Espaciais: Será adicionado ao treinamento do modelo para explicar melhor as variações de NEE.
+   - Generalizar a abordagem para uma área mais ampla e diversa.
+   - Incorporação de Variáveis Espaciais: Será adicionado ao treinamento do modelo para explicar melhor as variações de NEE.
